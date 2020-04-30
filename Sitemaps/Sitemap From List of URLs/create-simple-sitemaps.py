@@ -3,7 +3,7 @@ This Script Will Help You Create a XML Sitemap From a List of URLS
 @author: Jean-Christophe Chouinard: Technical SEO / Data Scientist. 
 Twitter > https://www.twitter.com/ChouinardJC, 
 LinkedIn > https://www.linkedin.com/in/jeanchristophechouinard/, 
-Blog > https://www.jcchouinard.com/
+Blog > https://www.jcchouinard.com/create-xml-sitemap-with-python/
 
 '''
 

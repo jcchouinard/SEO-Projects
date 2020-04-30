@@ -1,3 +1,13 @@
+'''
+This Script Will Help You Create a XML Sitemap From a List of URLS
+@author: Jean-Christophe Chouinard: Technical SEO / Data Scientist. 
+Twitter > https://www.twitter.com/ChouinardJC, 
+LinkedIn > https://www.linkedin.com/in/jeanchristophechouinard/, 
+Blog > https://www.jcchouinard.com/
+
+'''
+
+
 import pandas as pd
 import os
 import datetime 

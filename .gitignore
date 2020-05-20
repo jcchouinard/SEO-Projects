@@ -12,6 +12,10 @@
 **/credentials.json
 **/client_secrets.json
 **/client_secret.json
+*.dat
+
+# CSV Files
+*.csv
 
 # Read Me
 **/README.md

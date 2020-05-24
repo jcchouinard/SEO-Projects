@@ -12,9 +12,15 @@
 **/credentials.json
 **/client_secrets.json
 **/client_secret.json
+*.dat
 
-# Read Me
-**/README.md
+
+# Private Files
+*.csv
+*.csv.gz
+*.tsv
+*.tsv.gz
+*.xlsx
 
 
 # Mac/OSX

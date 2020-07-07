@@ -13,6 +13,7 @@
 **/client_secrets.json
 **/client_secret.json
 *.dat
+*password*
 
 
 # Private Files

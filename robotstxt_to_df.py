@@ -1,8 +1,23 @@
+'''
+Parse Robots.txt to a DataFrame with Python
+
+This script will read the robots.txt file.
+Parse the robots.txt and add it to a Dataframe.
+
+@author: Jean-Christophe Chouinard. Technical SEO and Python for SEO. 
+@website: jcchouinard.com
+@original post: https://www.jcchouinard.com/robots-txt-parsing-with-python/‎
+@other work: https://www.jcchouinard.com/python-for-seo, https://www.jcchouinard.com/google-search-console-api
+@LinkedIn: https://www.linkedin.com/in/jeanchristophechouinard/ 
+@Twitter: https://www.twitter.com/@ChouinardJC
+'''
+
 import pandas as pd
 import os
 from urllib.parse import urlparse
 
 ua = 'User-agent'
+url = 'https://www.example.com' 
 
 def get_robots_url(url):
     domain_url = '{uri.scheme}://{uri.netloc}'.format(uri=urlparse(url))

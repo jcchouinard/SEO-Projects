@@ -15,6 +15,9 @@
 *.dat
 *password*
 
+# Private Node Modules
+node_modules/
+creds.js
 
 # Private Files
 *.csv

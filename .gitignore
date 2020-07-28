@@ -14,6 +14,7 @@
 **/client_secret.json
 *.dat
 *password*
+*.httr-oauth*
 
 # Private Node Modules
 node_modules/

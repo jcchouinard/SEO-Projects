@@ -7,7 +7,9 @@
 Published on:
 https://www.jcchouinard.com/pagespeed-api-and-lighthouse-forecasting/(ouvre un nouvel onglet)
 '''
+import time
 
+from selenium import webdriver
 import urllib.request, json
 
 device = "mobile"
@@ -41,8 +43,6 @@ cls = ["Cumulative Layout Shift", round(float(cls), 2)]
 
 list = [fcp_time, speed_index, time_interactive, blocking_time_duration, lcp, cls]
 
-from selenium import webdriver
-import time
 driver=webdriver.Chrome() 
 driver.get('https://googlechrome.github.io/lighthouse/scorecalc/#FCP=' + str(list[0][1]) + '&SI=' + str(list[1][1]) + '&LCP=' + str(list[4][1]) + '&TTI=' + str(list[2][1]) + '&TBT=' + str(list[3][1]) + '&CLS=' + str(list[5][1]) + '&device=” +device + “&version=6')
 time.sleep(3)

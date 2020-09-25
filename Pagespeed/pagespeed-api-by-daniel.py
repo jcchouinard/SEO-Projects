@@ -4,7 +4,7 @@
 @website:   danielherediamejias.com
 
 Published on:
-https://www.jcchouinard.com/pagespeed-api-and-lighthouse-forecasting/(ouvre un nouvel onglet)
+https://www.jcchouinard.com/pagespeed-api-and-lighthouse-forecasting/
 '''
 import time
 

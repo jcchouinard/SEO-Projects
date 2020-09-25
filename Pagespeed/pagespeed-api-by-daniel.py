@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 '''
 @author:    Daniel Heredia Mejias 
-@role:      Sr. SEO Specialist at SEEK.com.au
 @website:   danielherediamejias.com
 
 Published on:

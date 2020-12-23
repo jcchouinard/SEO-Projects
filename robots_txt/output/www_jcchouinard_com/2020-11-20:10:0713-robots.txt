@@ -1,0 +1,20 @@
+User-agent: *
+Sitemap: https://www.jcchouinard.com/sitemap_index.xml
+
+# Admin
+Disallow: /wp-*
+Allow: /wp-admin/admin-ajax.php
+
+# JS/CSS
+Allow: *.js
+Allow: *.css
+
+# Images
+Allow: *.gif
+Allow: *.jpeg
+Allow: *.jpg
+Allow: *.png
+
+#feed
+Disallow: */rss*
+Disallow: */feed*

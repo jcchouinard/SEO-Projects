@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+'''
+What GMB Categories are competition using with Python and Google Places API
+(Billing Enablement Required)
+
+Original Post: https://www.jcchouinard.com/find-competition-gmb-categories-with-python/
+@author:    Zach Todd 
+@Twitter:   twitter.com/zchtodd
+'''
+
 import requests
 import json
 import re

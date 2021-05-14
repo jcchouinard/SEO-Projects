@@ -1,3 +1,7 @@
+# Created for the article by Jean-Christophe Chouinard
+# https://www.jcchouinard.com/read-rss-feed-with-python/
+# twitter: twitter.com/ChouinardJC
+
 from bs4 import BeautifulSoup
 import requests
 

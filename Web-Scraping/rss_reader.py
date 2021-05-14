@@ -1,6 +1,10 @@
-# Created for the article by Jean-Christophe Chouinard
+# Read a RSS Feed with Python and BeautifulSoup
 # https://www.jcchouinard.com/read-rss-feed-with-python/
+
+# Author: Jean-Christophe Chouinard
+# Role: Sr. SEO Specialist at Seek.com.au
 # twitter: twitter.com/ChouinardJC
+# linkedin: linkedin.com/in/jeanchristophechouinard
 
 from bs4 import BeautifulSoup
 import requests

@@ -1,3 +1,4 @@
+# Based on this blog post: https://www.jcchouinard.com/pycausalimpact/
 import os
 import searchconsole
 

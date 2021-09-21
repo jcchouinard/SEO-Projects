@@ -2,142 +2,184 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://stackoverflow.com/users/story/join</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/analytics/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/teams/customers</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/analytics/google-analytics/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://meta.stackoverflow.com/</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/automation/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/legal/terms-of-service/public</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/coding/automation/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://ru.stackoverflow.com/</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/coding/github/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/company/press</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/coding/python/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://pt.stackoverflow.com/</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/coding/sql/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/questions</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/github/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/business/get-started</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/python/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/legal/privacy-policy</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/seo/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/teams</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/seo/a-b-split-testing/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/questions/tagged/javascript</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/social-medias/facebook/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/enterprise</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/web-dev/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://chat.stackoverflow.com/</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/category/analytics/google-search-console/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/company/contact</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/page/1/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/help</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/page/2/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/teams/integrations</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/page/3/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/teams/pricing</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/page/4/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/teams/collaboration</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/page/5/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
     <url>
-        <loc>https://stackoverflow.com/teams/features</loc>
-        <lastmod>2020-04-30</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://www.jcchouinard.com/page/6/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
+        <priority>1.0</priority>        
+    </url>
+    
+    <url>
+        <loc>https://www.jcchouinard.com/30-days-of-pandas/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
+        <priority>1.0</priority>        
+    </url>
+    
+    <url>
+        <loc>https://www.jcchouinard.com/a-tribute-to-hamlet-batista/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
+        <priority>1.0</priority>        
+    </url>
+    
+    <url>
+        <loc>https://www.jcchouinard.com/a-year-in-review/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
+        <priority>1.0</priority>        
+    </url>
+    
+    <url>
+        <loc>https://www.jcchouinard.com/ab-split-testing-resources/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
+        <priority>1.0</priority>        
+    </url>
+    
+    <url>
+        <loc>https://www.jcchouinard.com/web-stories/getting-started-with-django/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
+        <priority>1.0</priority>        
+    </url>
+    
+    <url>
+        <loc>https://www.jcchouinard.com/best-seo-posts/</loc>
+        <lastmod>2021-06-28</lastmod>
+        <changefreq>never</changefreq>
         <priority>1.0</priority>        
     </url>
     
